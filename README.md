@@ -1,5 +1,5 @@
 # 2DShooterGame
-This is a 2DShooterGame developped with unity. 
+This is a 2D Shooter Game developped with unity. 
 Assets I used to do this project:
 - https://assetstore.unity.com/packages/2d/environments/2d-space-kit-27662 
 - https://assetstore.unity.com/packages/essentials/ui-samples-25468. 
